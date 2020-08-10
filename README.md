@@ -1,0 +1,2 @@
+# patlatma-botu
+Prefix : "."
